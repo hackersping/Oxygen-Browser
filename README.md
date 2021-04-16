@@ -1,4 +1,4 @@
-# Simple Browser
+# Simple Browser - Oxygen
 
 This is a Simple Browser Created With Python. This Browser is really awesome to use and it doesn't eat RAM like Chrome. XD
 ## Installation
