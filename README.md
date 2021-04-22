@@ -7,19 +7,16 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install PyQt5 &
 
 ```bash
 pip install PyQt5
-
-pip install fontawesome
 ```
 
 ## Usage
 
 ```python
 import sys
-
-import fontawesome as fa
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtWebEngineWidgets import *
+from PyQt5.QtGui import *
 ```
 
 ## Contributing
