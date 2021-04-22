@@ -3,7 +3,7 @@
 This is a Simple Browser Created With Python. This Browser is really awesome to use and it doesn't eat RAM like Chrome. XD
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install PyQt5 & fontawesome.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install PyQt5.
 
 ```bash
 pip install PyQt5
